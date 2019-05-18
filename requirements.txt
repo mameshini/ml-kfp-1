@@ -1,0 +1,13 @@
+ipython
+jupyter
+# jupyter_contrib_nbextensions
+# ipdb
+#pip
+autopep8
+# ./extensions
+numpy
+pandas
+grpcio
+Flask
+futures
+redis

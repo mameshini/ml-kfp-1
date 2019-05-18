@@ -1,0 +1,11 @@
+numpy==1.16.2
+keras
+dill
+matplotlib
+tensorflow
+annoy
+tqdm
+nltk
+IPython
+ktext
+h5py
